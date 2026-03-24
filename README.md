@@ -30,8 +30,8 @@ Sublime Text 風の設定を Cursor に適用する手順です。
 
 **Ubuntu ワンライナー**（プロジェクトルートから）:
 ```bash
-cp CURSOR_SETTINGS/settings.json ~/.config/Cursor/User/settings.json
-cp CURSOR_SETTINGS/keybindings.json ~/.config/Cursor/User/keybindings.json
+cp cursor-sublime-like/settings.json ~/.config/Cursor/User/settings.json
+cp cursor-sublime-like/keybindings.json ~/.config/Cursor/User/keybindings.json
 ```
 
 - **既存設定を残す**: 既存ファイルを開き、必要な項目だけマージ
