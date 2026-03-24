@@ -2,6 +2,8 @@
 
 Sublime Text 風の設定を Cursor に適用する手順です。
 
+![サンプルスクリーンショット](images/sample.png)
+
 ## 含まれる設定
 
 - **テーマ**: Monokai
